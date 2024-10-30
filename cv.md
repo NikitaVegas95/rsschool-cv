@@ -1,48 +1,54 @@
+![Avatar](./avatar/avatar.webp)
+
 # Isaev Nikita
-* Telegram: @NIKITA_ISAEV95
-* Email: nikitavegas412@yandex.ru
-* Phone: +7 (930) 809 38 83
+* **Telegram:** [@NIKITA_ISAEV95](https://t.me/NIKITA_ISAEV95)
+* **Email:** [nikitavegas412@yandex.ru](mailto:nikitavegas412@yandex.ru)
+* **Phone:** +7 (930) 809 38 83
 
-Frontend-разработчик c мая 2023 года.
-Ответственно отношусь к выполнению задач, быстро учусь, умею работать в команде,
-стремлюсь к самосовершенствованию и изучению новых технологий.
-Разработка и поддержка 4-х проектов
+---
 
+### 🖥️ Frontend Developer
+_Since May 2023_
 
-Навыки:
-* HTML5
-* CSS3
-* JS (ES6) 
-* TS
-* React 
-* Redux 
-* RTK
-* Webpack 
-* Next.js 
-* GitLab 
-* GitHub 
-* Postman 
-* YouTrack 
-* WebStorm
-* Docker
+I approach tasks responsibly, am a quick learner, work well in a team, and am committed to self-improvement and learning new technologies. I have contributed to the development and support of 4 projects.
 
-1) YoReactions интерактивные презентации в реальном времени (релиз MVP3 - 27.06.2024) - https://yoreactions.lad-academy.ru/-
-    * Стек: React / TypeScript / Redux-toolkit / hapi/nes / Webpack / SCSS / antd / REST
-    * Роль: Team Lead, Frontend developer, PM
+---
 
-2) Сайт по очистке водоемов - https://www.sapropel-nn.ru/
-    * Стек: HTML / SCSS / JavaScript
-    * Роль: Team Lead, Frontend developer
+### 🛠️ Skills
+- **Core Technologies:** HTML5, CSS3, JavaScript (ES6), TypeScript
+- **Libraries & Frameworks:** React, Redux, Redux Toolkit, Next.js
+- **Tools:** Webpack, GitLab, GitHub, Postman, YouTrack, Docker
+- **IDE:** WebStorm
 
-3) Платформа для обучения школьников - https://programming-platform.ru/
-    * Стек: React / TypeScript / Redux-toolkit / Vite / SCSS / REST
-    * Роль: Team Lead, Frontend developer, PM
+---
 
-4) Верстка сайта IT академии Lad - https://lad-academy.ru/main
-    * Стек: HTML / SCSS / JavaScript
-    * Роль: Frontend developer
+### 💼 Project Experience
 
-Высшее образование: Европейский Университет, г. Киев, "Право"
-Проффессиональная переподготовка: Frontend developer IT-academy Lad
+1. **[YoReactions](https://yoreactions.lad-academy.ru/)** — Real-time interactive presentations  
+   _MVP3 Release - 27.06.2024_  
+   **Stack:** React, TypeScript, Redux Toolkit, hapi/nes, Webpack, SCSS, antd, REST  
+   **Role:** Team Lead, Frontend Developer, PM
 
-Английский язык: A2
+2. **[Waterbody Cleaning Website](https://www.sapropel-nn.ru/)**  
+   **Stack:** HTML, SCSS, JavaScript  
+   **Role:** Team Lead, Frontend Developer
+
+3. **[Student Learning Platform](https://programming-platform.ru/)**  
+   **Stack:** React, TypeScript, Redux Toolkit, Vite, SCSS, REST  
+   **Role:** Team Lead, Frontend Developer, PM
+
+4. **[IT Academy Lad Website](https://lad-academy.ru/main)**  
+   **Stack:** HTML, SCSS, JavaScript  
+   **Role:** Frontend Developer
+
+---
+
+### 🎓 Education
+
+- **Bachelor’s Degree:** European University, Kyiv, "Law"
+- **Professional Retraining:** Frontend Developer, IT Academy Lad
+
+---
+
+### 🌐 English Language
+- Level: A2
